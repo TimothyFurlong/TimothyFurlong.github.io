@@ -8,5 +8,8 @@ My background in Computer Science has also uplifted my skills in GIS with experi
 I have worked on various projects in GIS, from classes to personal projects. These projects have given me experience in many different parts of GIS.  
 from digitizing data, analysis, story maps, etc.
 ## Projects
+### Personal
 ![shipwreck density on Lake Superior](assets/Layout.png)
+## School  
+
 
