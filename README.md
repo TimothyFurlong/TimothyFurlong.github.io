@@ -11,5 +11,6 @@ from digitizing data, analysis, story maps, etc.
 ### Personal
 ![shipwreck density on Lake Superior](assets/Layout.png)
 ## School  
-
+![Possible Solar Farm Locations](assets/Posb_Solar_Farm_Locations.png)
+![Solar farm locations ranked](assets/Solar_Farm_Loc_Rankings.png)
 
