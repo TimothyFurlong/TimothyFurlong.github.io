@@ -1,5 +1,5 @@
 <!-- #TimothyFurlong.github.io -->
-INSERT PROFILE PHOTO HERE  
+<!-- INSERT PROFILE PHOTO HERE -->  
 Timothy Furlong's GIS Portfolio  
 ## Welcome  
 I am a student at the University of Wisconsin, River Falls. I have a major in Computer Science and a minor in Geographic Information Systems.  
