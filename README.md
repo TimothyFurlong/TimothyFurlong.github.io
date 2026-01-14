@@ -17,7 +17,7 @@ based on land cover data from the USGS. The first map shows whether the land was
 1-15 based on the type of land, and distance to roads and power lines, 1 being the least compatible, and 15 being the most compatible.  
 ![Possible Solar Farm Locations](assets/Posb_Solar_Farm_Locations.png)
 ![Solar farm locations ranked](assets/Solar_Farm_Loc_Rankings.png)
-The next three maps are from a project I was assigned to, where I had to create data based on zones, buildings, and paths of the UWRF campus,  
+The next three maps are from a project I was assigned to, where I had to create data based on zones, buildings, and paths of the UWRF campus 
 based on satellite imagery and using heads-up digitizing. The maps show zones of the UWRF Campus, Campus Buildings, and the paths of the Campus. 
 ![Campus Zones](assets/UWRF_Zones.png)
 ![Campus Buildings](assets/UWRF_Buildings.png)
