@@ -10,7 +10,7 @@ from digitizing data, analysis, story maps, etc.
 ## Projects
 ### Personal  
 I decided to make a map based on the density of shipwrecks in Lake Superior. I have always been fascinated by the history of shipping, the shipwrecks  
-on the Great Lakes. This map uses data from another map of Lake Superior shipwrecks from ARCGIS online  (link:https://www.arcgis.com/apps/mapviewer/index.html?webmap=f0ed33462ab441cabe90e460a35788f5), as well as some data I digitized myself based on  
+on the Great Lakes. This map uses data from another map of Lake Superior shipwrecks from ARCGIS online  (link:https://www.arcgis.com/apps/mapviewer/index.html?webmap=f0ed33462ab441cabe90e460a35788f5),as well as some data I digitized myself based on  
 Research I did from various sites about Great Lakes Shipwrecks. The data I created and the data layer from ARCGIS Online were joined together to make  
 the final layer I used for this project. I then used a heat map to create the density map.
 ![shipwreck density on Lake Superior](assets/Layout.png)
