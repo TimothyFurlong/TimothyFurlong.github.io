@@ -14,7 +14,7 @@ on the Great Lakes. This map uses data from another map of Lake Superior shipwre
 Research I did from various sites about Great Lakes Shipwrecks. The data I created and the data layer from ARCGIS Online were joined together to make  
 the final layer I used for this project. I then used a heat map to create the density map.
 ![shipwreck density on Lake Superior](assets/Layout.png)
-## School  
+### School  
 The next two maps are from a project where I had to determine compatible locations for solar farms in the Willow River watershed in Wisconsin.  
 I used tools to determine compatibility based on distance to roads and power lines, based on given data, and whether the land was a wetland or water  
 based on land cover data from the USGS. The first map shows whether the land was compatible or not. The second map ranks the compatibility from 
@@ -28,4 +28,7 @@ parking lot. The number is estimated based on satellite imagery.
 ![Campus Zones](assets/UWRF_Zones.png)
 ![Campus Buildings](assets/UWRF_Buildings.png)
 ![Campus Paths](assets/UWRF_Paths.png)
+####ARCGIS Online projects
+[Timothy Furlong, Global warming temperatures vs locaitons of non renewable energy sources](https://uwriverfalls.maps.arcgis.com/home/item.html?id=72657e69478e4e9d9e1e943a69a9f43f)
+[UWRF Campus Tour (Timothy Furlong)](https://uwriverfalls.maps.arcgis.com/home/item.html?id=e26feaa12a2d4ca287d69a9ab9404bba)
 
