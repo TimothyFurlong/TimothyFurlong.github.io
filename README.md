@@ -29,6 +29,6 @@ parking lot. The number is estimated based on satellite imagery.
 ![Campus Buildings](assets/UWRF_Buildings.png)
 ![Campus Paths](assets/UWRF_Paths.png)
 ####ARCGIS Online projects
-[Timothy Furlong, Global warming temperatures vs locaitons of non renewable energy sources](https://uwriverfalls.maps.arcgis.com/home/item.html?id=72657e69478e4e9d9e1e943a69a9f43f)
+[Timothy Furlong, Global warming temperatures vs locaitons of non renewable energy sources](https://uwriverfalls.maps.arcgis.com/home/item.html?id=72657e69478e4e9d9e1e943a69a9f43f)  
 [UWRF Campus Tour (Timothy Furlong)](https://uwriverfalls.maps.arcgis.com/home/item.html?id=e26feaa12a2d4ca287d69a9ab9404bba)
 
